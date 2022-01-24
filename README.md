@@ -7,9 +7,12 @@ A person who strives to become a DL backend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sws2nd&label=Profile%20views&color=0e75b6&style=flat" alt="sws2nd" /> </p>
 
-<h3 align="left>My Service URL: http://gemstone-s.shop/</h3>
-<h5 align="left>현재는 AWS 인스턴스를 중단한 상태입니다. 서비스를 이용해보고 싶으실 경우 아래 e-mail로 연락주세요.</h5>
-<h5 align="left>The AWS instance is currently suspended. If you would like to use the service, please contact us at the e-mail below.</h5> 
+<h3 align="left">My Service URL: http://gemstone-s.shop/</h3>
+
+<h5>[주의 : 현재는 AWS 인스턴스를 중단한 상태입니다. 서비스를 이용해보고 싶으실 경우 아래 e-mail로 연락주세요.]</h5>
+
+<h5>[Caution : The AWS instance is currently suspended. If you would like to use the service, please contact us at the e-mail below.]</h5>
+
 <h3 align="left">Connect with me: daylight1234567@gmail.com</h3>
 <p align="left">
 </p>

@@ -7,7 +7,7 @@ A person who strives to become a DL backend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sws2nd&label=Profile%20views&color=0e75b6&style=flat" alt="sws2nd" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: daylight1234567@gmail.com</h3>
 <p align="left">
 </p>
 

@@ -1,8 +1,9 @@
 # Django---simple-sns-service
 Django를 이용한 기초적인 SNS 서비스 만들기
 
-<h1 align="center">Hi 👋, I'm GemstoneS</h1>
-<h3 align="center">A passionate DL backend developer from korea</h3>
+<h3 align="center">Hi 👋, I'm GemstoneS</h3>
+<h3 align="center">
+A person who strives to become a DL backend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sws2nd&label=Profile%20views&color=0e75b6&style=flat" alt="sws2nd" /> </p>
 
